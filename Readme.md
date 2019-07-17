@@ -22,8 +22,8 @@ This container is periodicaly updated to always contains the latest version of [
 ```
 
 Since this docker contianer will always be communicating with a remote MySQL instance, use:  
-    - `--forcemem` to define amount of RAM installed in megabytes.  
-    - `--forceswap` to define amount of swap memory configured in megabytes.  
+    `--forcemem` to define amount of RAM installed in megabytes.  
+    `--forceswap` to define amount of swap memory configured in megabytes.  
 
 ## ![](https://github.com/docker-suite/artwork/raw/master/various/pin/png/pin_16.png) Help
 
